@@ -1,0 +1,2 @@
+create database educational_bi_framework;
+use educational_bi_framework;
