@@ -28,7 +28,7 @@ Educational-BI-Framework/
 │   ├── educational_bi_framework.pbix  # 5-page interactive dashboard
 │   └── Icons/                         # Custom icons used in the dashboard
 ├── Screenshots/              # Dashboard page previews
-├── Reports/                  # Final research report/paper (in progress)
+├── Reports/                  # Final research report/paper
 └── README.md
 ```
 
@@ -69,4 +69,4 @@ Core technical pipeline complete and verified. Research report/paper in progress
 
 ## 👤 Author
 
-Yash Raj — Research Intern
+Yash Raj Singh — Research Intern
