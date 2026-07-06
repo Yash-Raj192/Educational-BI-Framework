@@ -1,4 +1,4 @@
-# SQL-Based Data Warehousing and BI Framework for Education Analytics
+# Educational BI Framework – Student Academic Risk Prediction
 
 An end-to-end student academic risk analytics framework combining SQL-based data warehousing, statistical analysis, machine learning, and Power BI dashboards — built as part of a research-oriented internship project.
 
