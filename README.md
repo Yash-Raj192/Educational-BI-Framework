@@ -13,22 +13,22 @@ This project analyzes student performance data to identify academically at-risk 
 ```
 Educational-BI-Framework/
 ├── Dataset/
-│   ├── Raw/                  # Original dataset (Kaggle)
-│   ├── Cleaned/              # Deduplicated, transformed, feature-engineered dataset
-│   └── Model Outputs/        # Model predictions and feature importance scores
+│   ├── Raw/                           # Original dataset (Kaggle)
+│   ├── Cleaned/                       # Deduplicated, transformed, feature-engineered dataset
+│   └── Model Outputs/                 # Model predictions and feature importance scores
 ├── Notebooks/
-│   ├── data_preprocessing.ipynb     # Cleaning, transformation, feature engineering, SQL loading
-│   └── analysis_and_modeling.ipynb  # Statistical tests, leakage check, Random Forest model
+│   ├── data_preprocessing.ipynb       # Cleaning, transformation, feature engineering, SQL loading
+│   └── analysis_and_modeling.ipynb    # Statistical tests, leakage check, Random Forest model
 ├── SQL/
 │   ├── create_database.sql
-│   ├── create_tables.sql            # Star schema: 3 dimension tables + 1 fact table
-│   ├── analytics_queries.sql        # All BI/analytical queries
-│   └── data_maintenance.sql         # Reload/verification utility script
+│   ├── create_tables.sql              # Star schema: 3 dimension tables + 1 fact table
+│   ├── analytics_queries.sql          # All BI/analytical queries
+│   └── data_maintenance.sql           # Reload/verification utility script
 ├── Power BI/
 │   ├── educational_bi_framework.pbix  # 5-page interactive dashboard
 │   └── Icons/                         # Custom icons used in the dashboard
-├── Screenshots/              # Dashboard page previews
-├── Reports/                  # Final research report/paper
+├── Screenshots/                       # Dashboard page previews
+├── Reports/                           # Final research report/paper
 └── README.md
 ```
 
