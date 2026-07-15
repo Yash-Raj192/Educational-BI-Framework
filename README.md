@@ -28,15 +28,15 @@ Educational-BI-Framework/
 │   ├── educational_bi_framework.pbix  # 5-page interactive dashboard
 │   └── Icons/                         # Custom icons used in the dashboard
 ├── Screenshots/                       # Dashboard page previews
-|    ├── Page 1.png
-|    ├── Page 2.png
-|    ├── Page 3.png
-|    ├── Page 4.png
-|    ├── Page 5.png
-|    ├── Architecture Diagram.png
-|    └── Schema Diagram.png
+|   ├── Page 1.png
+|   ├── Page 2.png
+|   ├── Page 3.png
+|   ├── Page 4.png
+|   ├── Page 5.png
+|   ├── Architecture Diagram.png
+|   └── Schema Diagram.png
 ├── Reports/                           # Final research report/paper
-|    └── IIIT Internship Project.pdf                          
+|   └── IIIT Internship Project.pdf                          
 └── README.md
 ```
 
